@@ -1,0 +1,2 @@
+# Zikirmatik
+Dijital zikirmatik uygulaması
